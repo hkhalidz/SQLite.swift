@@ -109,7 +109,7 @@ For a more comprehensive example, see [this article](http://masteringswift.blogs
 
 ## Installation
 
-> _Note:_ SQLite.swift requires Swift 2 (and [Xcode][] 7) or greater.
+> _Note:_ SQLite.swift requires Swift 2 (and [Xcode][] 7) or greater. Xcode 7.3 is required to build SQLite.swift 0.10 and above
 >
 > The following instructions apply to targets that support embedded
 > Swift frameworks. To use SQLite.swift in iOS 7 or an OS X command line
